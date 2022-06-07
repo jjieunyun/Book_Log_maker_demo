@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Book_Log_maker_demo/static/css/main.ed551c5c.css",
+    "main.js": "/Book_Log_maker_demo/static/js/main.8fdd7e08.js",
+    "static/media/default_logo.png": "/Book_Log_maker_demo/static/media/default_logo.84a84fa36a5c84907a67.png",
+    "static/media/Logo_ink.png": "/Book_Log_maker_demo/static/media/Logo_ink.507538620df167fba06d.png",
+    "index.html": "/Book_Log_maker_demo/index.html",
+    "main.ed551c5c.css.map": "/Book_Log_maker_demo/static/css/main.ed551c5c.css.map",
+    "main.8fdd7e08.js.map": "/Book_Log_maker_demo/static/js/main.8fdd7e08.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed551c5c.css",
+    "static/js/main.8fdd7e08.js"
+  ]
+}
